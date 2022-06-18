@@ -3,6 +3,6 @@ public class Main {
         int costoftheticket = 20000;
         int onemile = 20;
         int totalmiles = costoftheticket / onemile;
-        System.out.println(costoftheticket / onemile);
+        System.out.println("колличество миллей за приобретенный билет " + (costoftheticket / onemile));
     }
 }
