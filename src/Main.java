@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        int costoftheticket = 20000;
-        int onemile = 20;
-        int totalmiles = costoftheticket / onemile;
-        System.out.println("колличество миллей за приобретенный билет " + (costoftheticket / onemile));
+        int costOfTheTicket = 20000;
+        int oneMile = 20;
+        int totalMiles = costOfTheTicket / oneMile;
+        System.out.println("колличество миллей за приобретенный билет " + (costOfTheTicket / oneMile));
     }
 }
